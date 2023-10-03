@@ -19,6 +19,8 @@ def bubbleSort(items):
                 items[j+1] = temp
     return items
 
+def mergeSort(items):
+
 
 if __name__ == '__main__':
     l = list(range(0, 5))
